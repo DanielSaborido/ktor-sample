@@ -10,6 +10,4 @@ fun Application.configureTemplating() {
     install(FreeMarker) {
         templateLoader = ClassTemplateLoader(this::class.java.classLoader, "templates")
     }
-    routing {
-    }
 }
