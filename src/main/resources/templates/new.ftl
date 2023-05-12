@@ -1,7 +1,7 @@
 <#import "_layout.ftl" as layout />
 <@layout.header>
     <div>
-        <h3>Create article</h3>
+        <h3>Crear articulo</h3>
         <form action="/articles" method="post">
             <p>
                 <input type="text" name="title">

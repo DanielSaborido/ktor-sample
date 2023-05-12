@@ -13,6 +13,6 @@
     </#list>
     <hr>
     <p>
-        <a href="/articles/new">Create article</a>
+        <a href="/articles/new">Crear articulo</a>
     </p>
 </@layout.header>

@@ -10,7 +10,7 @@
         </p>
         <hr>
         <p>
-            <a href="/articles/${article.id}/edit">Edit article</a>
+            <a href="/articles/${article.id}/edit">Editar info</a>
         </p>
     </div>
 </@layout.header>

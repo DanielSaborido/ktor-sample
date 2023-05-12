@@ -2,7 +2,7 @@
 <#import "_layout.ftl" as layout />
 <@layout.header>
     <div>
-        <h3>Edit article</h3>
+        <h3>Editar info</h3>
         <form action="/articles/${article.id}" method="post">
             <p>
                 <input type="text" name="title" value="${article.title}">
